@@ -1,43 +1,34 @@
 [
-    {
-      category: "Frontend",
-      items: [
-        "React Js",
-        "Next Js",
-        "Vue Js",
-        "TypeScript",
-        "Redux",
-        "Angular Js",
-        "Tailwind CSS",
-      ],
-    },
-    {
-      category: "Backend",
-      items: ["Node Js", "Python", "Flask", "Django", "GraphQL", "Express"],
-    },
-    { category: "Mobile", items: ["React Native", "Electron JS"] },
-    {
-      category: "DevOps & Tools",
-      items: [
-        "AWS",
-        "CI/CD",
-        "Docker",
-        "Webpack/Vite",
-        "Bun JS",
-        "Monorepo Lerna",
-      ],
-    },
-    { category: "Databases", items: ["PostgreSQL", "MongoDB", "Firebase"] },
-    {
-      category: "Other",
-      items: [
-        "Microfrontend",
-        "GraphQL",
-        "C++",
-        "Go",
-        "Storybook",
-        "Jest",
-        "Testing",
-      ],
-    },
-  ];
+  {
+    "category": "Frontend",
+    "items": [
+      "React.js",
+      "Next.js",
+      "Vue.js",
+      "TypeScript",
+      "Redux",
+      "AngularJS",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": ["Node.js", "Python", "Flask", "Django", "GraphQL", "Express"]
+  },
+  {
+    "category": "Mobile",
+    "items": ["React Native", "Electron.js"]
+  },
+  {
+    "category": "DevOps & Tools",
+    "items": ["AWS", "CI/CD", "Docker", "Webpack / Vite", "Bun.js", "Lerna (Monorepo)"]
+  },
+  {
+    "category": "Databases",
+    "items": ["PostgreSQL", "MongoDB", "Firebase"]
+  },
+  {
+    "category": "Other",
+    "items": ["Microfrontend", "Go", "Storybook", "Jest", "Testing"]
+  }
+]
