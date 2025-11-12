@@ -1,80 +1,104 @@
 [
-    {
-      "company": "PLIVO (Contacto)",
-      "role": "SDE | Founding Team",
-      "period": "06/2022 - 08/2024",
-      "icon": "Rocket",
-      "location": "Bangalore, KA",
-      "description":
-        "Contacto is a product solution that enables businesses to set up their contact center with a few button clicks and drag and drop functionality.",
-      "achievements": [
-        "Converted Electron.js desktop app to web with 50% speed improvement using WebSockets and BroadcastListeners for real-time communication",
-        "Migrated Create React App (CRA) to Vite: 2x dev time reduction, 4x faster builds with Rollup",
-        "Independently led development of Email and WhatsApp channels, Agent Monitoring, and Barging features, attracting 4 customers",
-        "Developed UI component library using Storybook and Material UI, integrated LogRocket logging and test automation pipeline reducing bugs by 40%",
-        "Implemented advanced browser features for seamless real-time communication without platform switching or multiple logins"
-      ],
-      "image": "./portfolio1.jpeg",
-      "technologies": [
-        "React",
-        "Vite",
-        "WebSockets",
-        "Storybook",
-        "Material UI",
-        "TypeScript",
-        "Node.js"
-      ]
-    },
-    {
-      "company": "KREDX",
-      "role": "SDE",
-      "period": "06/2021 - 06/2022",
-      "icon": "BarChart3",
-      "location": "Bangalore, KA",
-      "description":
-        "Designed and developed critical components for fintech vendor onboarding platform using micro frontend architecture.",
-      "achievements": [
-        "Integrated single SPA package for Micro FrontEnd architecture reducing deployment time by 60%",
-        "Enabled independent feature development by multiple developers simultaneously with isolated deployments",
-        "Designed server-driven forms that dynamically adapt to backend response for flexible vendor onboarding",
-        "Developed central document upload module with maker-checker functionality for team-wide reusability",
-        "Implemented GraphQL code generator for auto-generating types, reducing buggy code in production",
-        "Achieved 60% test coverage across entire Capvel repository with comprehensive unit and integration tests"
-      ],
-      "image": "./portfolio2.jpeg",
-      "technologies": [
-        "React",
-        "Micro Frontend",
-        "GraphQL",
-        "JavaScript",
-        "Jest",
-        "Single SPA"
-      ]
-    },
-    {
-      "company": "GOODHEALTH",
-      "role": "SDE | Founding Team",
-      "period": "05/2020 - 04/2021",
-      "icon": "Zap",
-      "location": "Bangalore, KA",
-      "description":
-        "Built and optimized high-performance healthcare platform website with focus on UX and accessibility.",
-      "achievements": [
-        "Created entire website from scratch using Ant Design component library with modern UI/UX",
-        "Optimized user experience with lazy loading, progressive image loading, and Brotli asset compression",
-        "Implemented parallax effects and animated UI for attractive and engaging user interactions",
-        "Ensured device accessibility and PWA requirements for cross-device compatibility",
-        "Achieved optimal performance metrics with 50% reduction in page load times",
-        "Implemented responsive design supporting all modern devices and screen sizes"
-      ],
-      "image": "./portfolio3.jpeg",
-      "technologies": [
-        "React",
-        "Ant Design",
-        "PWA",
-        "CSS",
-        "JavaScript",
-        "Web Performance"
-      ]
-    }
+  {
+    "company": "ADEPTMIND",
+    "role": "Engineering | Founding Team",
+    "period": "06/2024 - Present",
+    "icon": "BrainCircuit",
+    "location": "Bangalore, KA",
+    "description": "Adeptmind leverages Gen AI and deep intent mining to transform retail search and discovery, helping retailers improve visibility, performance, and product discovery experiences.",
+    "achievements": [
+      "Developed the `dlp-endpoints` service from scratch in Go to transition performance-critical APIs; reduced response times from ~1.8s to sub-second latency for client-facing endpoints",
+      "Enhanced DLP Platform backend with Interlink Optimization in Chat-DLP, improving data linking and discoverability",
+      "Implemented AI-driven interlink generation using OpenAI embeddings to create dynamic ratios between CLP, DLP, and PDP interlinks for optimized search and merchandising",
+      "Led frontend revamp with reusable FAQ and 404 templates, accelerating client onboarding and improving SEO visibility",
+      "Integrated Framer Motion for smooth UI transitions, increasing user engagement and boosting appearance in AI Overviews",
+      "Owned and delivered DLP SLA targets, resolving ~40 tickets in 2 months while managing engineering support for over 2 months in parallel",
+      "Mentored and onboarded new interns — from KT sessions to daily guidance and performance feedback — successfully transitioning them to full-time engineers"
+    ],
+    "image": "./portfolio4.jpeg",
+    "technologies": [
+      "Go",
+      "React",
+      "Next.js",
+      "Framer Motion",
+      "OpenAI API",
+      "TypeScript",
+      "GraphQL"
+    ]
+  },
+  {
+    "company": "PLIVO (Contacto)",
+    "role": "SDE | Founding Team",
+    "period": "06/2022 - 08/2024",
+    "icon": "Rocket",
+    "location": "Bangalore, KA",
+    "description": "Contacto is a product solution that enables businesses to set up their contact center with a few button clicks and drag and drop functionality.",
+    "achievements": [
+      "Converted Electron.js desktop app to web with 50% speed improvement using WebSockets and BroadcastListeners for real-time communication",
+      "Migrated Create React App (CRA) to Vite: 2x dev time reduction, 4x faster builds with Rollup",
+      "Independently led development of Email and WhatsApp channels, Agent Monitoring, and Barging features, attracting 4 customers",
+      "Developed UI component library using Storybook and Material UI, integrated LogRocket logging and test automation pipeline reducing bugs by 40%",
+      "Implemented advanced browser features for seamless real-time communication without platform switching or multiple logins"
+    ],
+    "image": "./portfolio1.jpeg",
+    "technologies": [
+      "React",
+      "Vite",
+      "WebSockets",
+      "Storybook",
+      "Material UI",
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  {
+    "company": "KREDX",
+    "role": "SDE",
+    "period": "06/2021 - 06/2022",
+    "icon": "BarChart3",
+    "location": "Bangalore, KA",
+    "description": "Designed and developed critical components for fintech vendor onboarding platform using micro frontend architecture.",
+    "achievements": [
+      "Integrated single SPA package for Micro FrontEnd architecture reducing deployment time by 60%",
+      "Enabled independent feature development by multiple developers simultaneously with isolated deployments",
+      "Designed server-driven forms that dynamically adapt to backend response for flexible vendor onboarding",
+      "Developed central document upload module with maker-checker functionality for team-wide reusability",
+      "Implemented GraphQL code generator for auto-generating types, reducing buggy code in production",
+      "Achieved 60% test coverage across entire Capvel repository with comprehensive unit and integration tests"
+    ],
+    "image": "./portfolio2.jpeg",
+    "technologies": [
+      "React",
+      "Micro Frontend",
+      "GraphQL",
+      "JavaScript",
+      "Jest",
+      "Single SPA"
+    ]
+  },
+  {
+    "company": "GOODHEALTH",
+    "role": "SDE | Founding Team",
+    "period": "05/2020 - 04/2021",
+    "icon": "Zap",
+    "location": "Bangalore, KA",
+    "description": "Built and optimized high-performance healthcare platform website with focus on UX and accessibility.",
+    "achievements": [
+      "Created entire website from scratch using Ant Design component library with modern UI/UX",
+      "Optimized user experience with lazy loading, progressive image loading, and Brotli asset compression",
+      "Implemented parallax effects and animated UI for attractive and engaging user interactions",
+      "Ensured device accessibility and PWA requirements for cross-device compatibility",
+      "Achieved optimal performance metrics with 50% reduction in page load times",
+      "Implemented responsive design supporting all modern devices and screen sizes"
+    ],
+    "image": "./portfolio3.jpeg",
+    "technologies": [
+      "React",
+      "Ant Design",
+      "PWA",
+      "CSS",
+      "JavaScript",
+      "Web Performance"
+    ]
+  }
 ]
