@@ -64,7 +64,7 @@
       "Designed server-driven forms that dynamically adapt to backend response for flexible vendor onboarding",
       "Developed central document upload module with maker-checker functionality for team-wide reusability",
       "Implemented GraphQL code generator for auto-generating types, reducing buggy code in production",
-      "Achieved 60% test coverage across entire Capvel repository with comprehensive unit and integration tests"
+      "Achieved 60% test coverage across entire Capvel repository with comprehensive unit and integration tests "
     ],
     "image": "./portfolio2.jpg",
     "technologies": [
