@@ -16,6 +16,7 @@
       "Mentored and onboarded new interns — from KT sessions to daily guidance and performance feedback — successfully transitioning them to full-time engineers"
     ],
     "image": "./portfolio4.jpg",
+    "link":"https://www.adeptmind.ai/",
     "technologies": [
       "Go",
       "React",
@@ -41,6 +42,7 @@
       "Implemented advanced browser features for seamless real-time communication without platform switching or multiple logins"
     ],
     "image": "./portfolio1.jpg",
+    "link":"https://www.plivo.com",
     "technologies": [
       "React",
       "Vite",
@@ -67,6 +69,7 @@
       "Achieved 60% test coverage across entire Capvel repository with comprehensive unit and integration tests "
     ],
     "image": "./portfolio2.jpg",
+    "link":"https://www.kredx.com/",
     "technologies": [
       "React",
       "Micro Frontend",
@@ -92,6 +95,7 @@
       "Implemented responsive design supporting all modern devices and screen sizes"
     ],
     "image": "./portfolio3.jpg",
+    "link":"https://www.adeptmind.ai/",
     "technologies": [
       "React",
       "Ant Design",
