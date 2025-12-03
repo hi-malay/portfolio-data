@@ -40,7 +40,7 @@
       "Developed UI component library using Storybook and Material UI, integrated LogRocket logging and test automation pipeline reducing bugs by 40%",
       "Implemented advanced browser features for seamless real-time communication without platform switching or multiple logins"
     ],
-    "image": "./portfolio1.jpeg",
+    "image": "./portfolio1.jpg",
     "technologies": [
       "React",
       "Vite",
@@ -66,7 +66,7 @@
       "Implemented GraphQL code generator for auto-generating types, reducing buggy code in production",
       "Achieved 60% test coverage across entire Capvel repository with comprehensive unit and integration tests"
     ],
-    "image": "./portfolio2.jpeg",
+    "image": "./portfolio2.jpg",
     "technologies": [
       "React",
       "Micro Frontend",
@@ -91,7 +91,7 @@
       "Achieved optimal performance metrics with 50% reduction in page load times",
       "Implemented responsive design supporting all modern devices and screen sizes"
     ],
-    "image": "./portfolio3.jpeg",
+    "image": "./portfolio3.jpg",
     "technologies": [
       "React",
       "Ant Design",
