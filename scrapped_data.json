@@ -7,7 +7,7 @@
     "headline": "Engineering",
     "public_identifier": "mmalay",
     "profile_url": "https://linkedin.com/in/mmalay",
-    "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHs0BkqV6aJLg/profile-displayphoto-crop_800_800/B56ZsTBrcwHAAI-/0/1765550786419?e=1769644800&v=beta&t=puoF1Ui547qRh4sY76hhnx_DERVkuxgeiOoeaUUy_gU",
+    "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHs0BkqV6aJLg/profile-displayphoto-crop_800_800/B56ZsTBrcwHAAI-/0/1765550786419?e=1772064000&v=beta&t=8lyLgXdZTthfIbtJAxMXqP-LncYNGIWu9jNeMI9Z-1s",
     "about": "",
     "location": {
       "country": "India",
@@ -22,10 +22,10 @@
     "open_to_work": false,
     "created_timestamp": 1495890584223,
     "show_follower_count": true,
-    "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQGQZTp6CDFt9Q/profile-displaybackgroundimage-shrink_350_1400/B56ZsmEwihJ4AY-/0/1765870340937?e=1769644800&v=beta&t=f0OWXXhNWbfphNWwXcGGNRiMc87whDS1m8Xg0CPSBRU",
+    "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQGQZTp6CDFt9Q/profile-displaybackgroundimage-shrink_350_1400/B56ZsmEwihJ4AY-/0/1765870340937?e=1772064000&v=beta&t=bwc4i2QJtpHETz_ywsw7FANOvj-amMg1oIccCcDMDwY",
     "urn": "ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8",
-    "follower_count": 1570,
-    "connection_count": 1482,
+    "follower_count": 1581,
+    "connection_count": 1493,
     "current_company": "Adeptmind",
     "current_company_urn": "17991379",
     "current_company_url": "https://www.linkedin.com/company/adeptmind",
@@ -36,12 +36,12 @@
     {
       "title": "Engineering",
       "company": "Adeptmind",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGvPh-2O8lviA/company-logo_400_400/company-logo_400_400/0/1738949518143/adeptmind_logo?e=1769644800&v=beta&t=DNrOMmJncZKmxUKdTm0MJolO7bM5mZPQyvFcO48nizU",
-      "duration": "Jul 2024 - Present · 1 yr 7 mos",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGvPh-2O8lviA/company-logo_400_400/company-logo_400_400/0/1738949518143/adeptmind_logo?e=1772064000&v=beta&t=yLo1vCaUiz0OZ_g2JL4VvB3JmaXsM6WuMbIvFxXbb9E",
+      "duration": "Jul 2024 - Present · 1 yr 8 mos",
       "location": "Toronto, Ontario, Canada",
       "employment_type": "Full-time",
       "company_linkedin_url": "https://www.linkedin.com/company/17991379/",
-      "description": "DLP Endpoints Optimization\n-Developed the dlp-endpoints service from scratch using Go, transitioning performance-critical APIs that previously had ~1.8s latency to achieve sub-second responses, significantly improving client satisfaction and system throughput.\n\nInterlink Intelligence (AI-driven Optimization)\n-Enhanced DLP Platform with backend improvements including Interlink Optimization in Chat-DLP, enabling richer interlink structures and better data discoverability.\n-Leveraged OpenAI embeddings to generate dynamic, multi-ratio interlinks across CLP, DLP, and PDP pages—improving search performance, contextual relevance, and merchandising flow.\n\nFrontend Revamp & SEO Enhancement\n-Led frontend overhaul with reusable FAQ and 404 templates, accelerating new client onboarding and improving SEO performance.\n-Integrated Framer Motion animations for smooth UI transitions and scroll interactions, boosting user engagement and visibility in AI Overviews.\n\nPlatform Ownership & Engineering Support\n-Owned and delivered DLP SLA targets, completing ~40 tickets in 2 months while concurrently managing Engineering Support for more than 2 months.\n-Ensured high stability, rapid response to production issues, and consistent delivery across multiple feature teams.\n\nMentorship & Team Enablement\n-Mentored and onboarded new interns through comprehensive KT sessions, daily support, and regular feedback cycles.\n-Guided them through the complete feature development process ",
+      "description": "DLP Endpoints Optimization\n-Built dlp-endpoints in Go from scratch, reducing API latency from ~1.8s to sub-second and improving throughput.\n\nInterlink Intelligence (AI-driven Optimization)\n-Implemented Interlink Optimization in Chat-DLP to enhance data discoverability.\n-Used OpenAI embeddings to create dynamic interlinks across CLP, DLP, and PDP, improving search relevance and merchandising flow.\n\nFrontend Revamp & SEO Enhancement\n-Led frontend revamp with reusable FAQ and 404 templates, accelerating onboarding and boosting SEO.\n-Added Framer Motion animations to improve engagement and AI Overview visibility.\n\nPlatform Ownership & Engineering Support\n-Owned DLP SLAs, closing ~40 tickets in 2 months while handling Engineering Support.\n-Maintained platform stability with rapid production issue resolution.\n\nMentorship & Team Enablement\n-Onboarded and mentored interns via structured KT, daily guidance, and end-to-end feature ownership.",
       "start_date": {
         "month": "Jul",
         "year": 2024
@@ -69,12 +69,12 @@
     {
       "title": "Software Engineer",
       "company": "Plivo",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGPAsPvG1tyUg/company-logo_400_400/B56ZVcaoArGUAY-/0/1741012238866/plivo_inc_logo?e=1769644800&v=beta&t=Kw-EJfjputWlBpZo4Ytx89U2xAXX4Dq13BMKxq3C_KQ",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGPAsPvG1tyUg/company-logo_400_400/B56ZVcaoArGUAY-/0/1741012238866/plivo_inc_logo?e=1772064000&v=beta&t=vn4-x_N7jKX8QSXCIQzaODlm0I5MSCCh6jjgzWIsD_s",
       "duration": "Jun 2022 - Jul 2024 · 2 yrs 2 mos",
       "location": "Bangalore Urban, Karnataka, India",
       "employment_type": "Full-time",
       "company_linkedin_url": "https://www.linkedin.com/company/2386103/",
-      "description": "DLP Endpoints Optimization\n-Developed the dlp-endpoints service from scratch using Go, transitioning performance-critical APIs that previously had ~1.8s latency to achieve sub-second responses, significantly improving client satisfaction and system throughput.\n-Interlink Intelligence (AI-driven Optimization)\n-Enhanced DLP Platform with backend improvements including Interlink Optimization in Chat-DLP, enabling richer interlink structures and better data discoverability.\n-Leveraged OpenAI embeddings to generate dynamic, multi-ratio interlinks across CLP, DLP, and PDP pages—improving search performance, contextual relevance, and merchandising flow.\n\nFrontend Revamp & SEO Enhancement\n-Led frontend overhaul with reusable FAQ and 404 templates, accelerating new client onboarding and improving SEO performance.\n-Integrated Framer Motion animations for smooth UI transitions and scroll interactions, boosting user engagement and visibility in AI Overviews.\n\nPlatform Ownership & Engineering Support\n-Owned and delivered DLP SLA targets, completing ~40 tickets in 2 months while concurrently managing Engineering Support for more than 2 months.\n-Ensured high stability, rapid response to production issues, and consistent delivery across multiple feature teams.\n\nMentorship & Team Enablement\n-Mentored and onboarded new interns through comprehensive KT sessions, daily support, and regular feedback cycles.\n-Guided them through the complete feature development process, resulting in successful transitions to full-time engineers.",
+      "description": "Platform & Performance Optimization\n-Converted Electron.js desktop app to a high-performance web app using WebSockets and BroadcastListeners, improving customer work efficiency by ~50%.\n\nFrontend Modernization\n-Migrated CRA to Vite, reducing dev iteration time by 2× and build times by 4× via Rollup.\n\nFeature Ownership & Delivery\n-Led development of key features including Email, WhatsApp channels, Agent Monitoring, and Call Barging, contributing to 4 customer onboardings.\n\nDesign Systems & Quality\n-Built a shared UI component library using Storybook + MUI and integrated LogRocket with automated tests, reducing bugs and QA effort by ~40%.",
       "start_date": {
         "month": "Jun",
         "year": 2022
@@ -99,7 +99,7 @@
     {
       "title": "Software Engineer",
       "company": "KredX",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQECR48Z6gaNUQ/company-logo_400_400/company-logo_400_400/0/1699509392050/kredxindia_logo?e=1769644800&v=beta&t=p0CWSy8bLdY6N38j-4vZtTb-NCHVRzsRx3oHJxVFFSY",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQECR48Z6gaNUQ/company-logo_400_400/company-logo_400_400/0/1699509392050/kredxindia_logo?e=1772064000&v=beta&t=WjrqsusPY1hpWyMmAkHlfQMzGoGGRulgpntLt_X3UOM",
       "duration": "Jun 2021 - Jun 2022 · 1 yr 1 mo",
       "location": "Bengaluru, Karnataka, India",
       "employment_type": "Full-time",
@@ -126,7 +126,7 @@
     {
       "title": "Software Engineer",
       "company": "GoodHealth",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1769644800&v=beta&t=BVdD8X5CMTd0t1G44H7pjVRl5eYdx5jdhOj7Agj8PHQ",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1772064000&v=beta&t=a03B4DwlFziv6qI6oixnaV4kNgAyu6p5nLqa6YkzpHY",
       "duration": "Nov 2020 - May 2021 · 7 mos",
       "location": "",
       "employment_type": "Full-time",
@@ -150,7 +150,7 @@
     {
       "title": "Software Developer",
       "company": "GoodHealth",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1769644800&v=beta&t=BVdD8X5CMTd0t1G44H7pjVRl5eYdx5jdhOj7Agj8PHQ",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1772064000&v=beta&t=a03B4DwlFziv6qI6oixnaV4kNgAyu6p5nLqa6YkzpHY",
       "duration": "May 2020 - Oct 2020 · 6 mos",
       "location": "",
       "employment_type": "Internship",
@@ -179,7 +179,7 @@
       "description": "",
       "activities": "",
       "skills": [],
-      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFbJbgVOfBgxA/company-logo_400_400/company-logo_400_400/0/1631328172776?e=1769644800&v=beta&t=AawvWrAR_6o9VzOBVIjv2kzA-8Tbd6bKtQUFQFzqkoc",
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFbJbgVOfBgxA/company-logo_400_400/company-logo_400_400/0/1631328172776?e=1772064000&v=beta&t=WW_2lM8lGHA5lo13Gmn8JMPP4jhxf50XQFYWLCyqdHE",
       "start_date": {
         "year": 2017,
         "month": null
@@ -193,10 +193,23 @@
   "featured": [
     {
       "type": "link",
+      "title": "Machine Coding | Frontend Interview Solutions",
+      "description": "code.malaymishra.com",
+      "url": "https://www.linkedin.com/in/mmalay/overlay/1770295074176/single-media-viewer?type=LINK&profileId=ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8"
+    },
+    {
+      "type": "link",
+      "title": "Thikana",
+      "description": "thikana.malaymishra.com",
+      "url": "https://www.linkedin.com/in/mmalay/overlay/1770268885029/single-media-viewer?type=LINK&profileId=ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8",
+      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGjZIGNBhOrXQ/articleshare-shrink_1280_800/B56ZwsPvsIJYAU-/0/1770268851605?e=1770984000&v=beta&t=JjCJYO7a0jfVyLT1U8E_TFz78rp5gAuyHXvvC9GvKzQ"
+    },
+    {
+      "type": "link",
       "title": "Portfolio",
       "description": "Malay Mishra Portfolio",
       "url": "https://www.linkedin.com/in/mmalay/overlay/1765829379193/single-media-viewer?type=LINK&profileId=ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8",
-      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEiNM5s10bR8A/articleshare-shrink_1280_800/B56Zsjoho4HAAQ-/0/1765829385563?e=1768467600&v=beta&t=uJrIfyu-djN8h6jYn6yUIXrMydLmDwqm66mWpawfb5U"
+      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEiNM5s10bR8A/articleshare-shrink_1280_800/B56Zsjoho4HAAQ-/0/1765829385563?e=1770984000&v=beta&t=PTBq_Flc0nOFJxpIDHv3KnPo-UFyGhTQzkNuAk5uQKo"
     }
   ],
   "skills": [
@@ -473,14 +486,6 @@
       }
     ],
     "given_recommendations": [
-      {
-        "recommender_name": "Raashi Jain",
-        "recommender_title": "Product & Content Analyst | E-commerce | UX Optimization | Digital Operations | SEO Strategy | Data-Driven Insights | User Experience",
-        "recommender_profile_id": "ACoAACLySJEBiMDKhPu5rSKqz036ppI7dhApu9U",
-        "recommendation_date": "July 1, 2025",
-        "relationship": "Malay worked with Raashi on the same team",
-        "recommendation_text": "I had the pleasure of working with Rashi, and she stood out for her problem-solving skills, ownership, and collaborative spirit. She’s thoughtful, reliable, and would be a strong asset to any Associate Product Manager team"
-      },
       {
         "recommender_name": "Indrajit V.",
         "recommender_title": "Senior Software Engineer | React, TypeScript, Python, SQL) | 5+ YOE in Scalable Systems",
