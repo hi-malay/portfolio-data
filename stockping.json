@@ -1,18 +1,5 @@
 [
   {
-    "id": "638ccef5-6f11-484d-903b-b259586cfc24",
-    "url": "https://www.zepto.com/pn/hot-wheels-3inch-die-cast-pack-of-2-assorted-cars-boys-3-years-color-may-vary/pvid/186757e5-f6d9-47b3-91ef-bbf2009e306e",
-    "platform": "zepto",
-    "pincode": "560100",
-    "chatId": "6245186317",
-    "createdAt": "2026-08-05T08:10:21.946Z",
-    "result": {
-      "status": "error",
-      "error": "locator.click: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('button[aria-label=\"Select Location\"]').first()\n || url=https://www.zepto.com/ | title=\"ERROR: The request could not be satisfied\" | body=\"403 ERROR The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, \"",
-      "checkedAt": "2026-08-05T09:30:57.831Z"
-    }
-  },
-  {
     "id": "e886e618-3775-481c-9780-223404ceaeb7",
     "url": "https://instamart.in/item/OG4GFD3UJD",
     "platform": "instamart",
