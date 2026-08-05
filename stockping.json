@@ -8,9 +8,9 @@
     "createdAt": "2026-08-05T10:34:58.426Z",
     "result": {
       "status": "in_stock",
-      "price": "₹95",
+      "price": "₹100",
       "title": "Natch Chilli Mango Slices | Imported From Thailand, Real Dried Thai Mangoes | Source Of Fiber, Rich in Vitamins and Antioxidants |",
-      "checkedAt": "2026-08-05T17:30:57.289Z",
+      "checkedAt": "2026-08-05T18:00:55.110Z",
       "notifiedAt": "2026-08-05T11:00:48.796Z"
     }
   },
@@ -25,7 +25,7 @@
       "status": "out_of_stock",
       "price": "₹100",
       "title": "Bingo Churros with Chocolate Dip",
-      "checkedAt": "2026-08-05T17:31:09.690Z"
+      "checkedAt": "2026-08-05T18:01:08.160Z"
     }
   }
 ]
