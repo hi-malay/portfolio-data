@@ -10,7 +10,7 @@
       "status": "in_stock",
       "price": "₹167",
       "title": "Hot Wheels Classic TV Series Batmobile Die Cast Car",
-      "checkedAt": "2026-08-05T09:00:29.900Z",
+      "checkedAt": "2026-08-05T09:22:22.412Z",
       "notifiedAt": "2026-08-05T08:10:42.240Z"
     }
   },
@@ -24,7 +24,7 @@
     "result": {
       "status": "error",
       "error": "locator.click: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('button[aria-label=\"Select Location\"]').first()\n || url=https://www.zepto.com/ | title=\"ERROR: The request could not be satisfied\" | body=\"403 ERROR The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, \"",
-      "checkedAt": "2026-08-05T09:00:56.467Z"
+      "checkedAt": "2026-08-05T09:22:49.259Z"
     }
   },
   {
@@ -38,7 +38,7 @@
       "status": "out_of_stock",
       "price": "₹167",
       "title": "Hot Wheels Worldwide Basic Car HW CLASSIC TV SERIES BATMOBILE Toy Car for Kids & Collectors",
-      "checkedAt": "2026-08-05T09:01:29.855Z"
+      "checkedAt": "2026-08-05T09:23:24.039Z"
     }
   }
 ]
