@@ -5,7 +5,14 @@
     "platform": "blinkit",
     "pincode": "560100",
     "chatId": "6245186317",
-    "createdAt": "2026-08-05T08:10:21.945Z"
+    "createdAt": "2026-08-05T08:10:21.945Z",
+    "result": {
+      "status": "in_stock",
+      "price": "₹167",
+      "title": "Hot Wheels Classic TV Series Batmobile Die Cast Car",
+      "checkedAt": "2026-08-05T08:10:42.240Z",
+      "notifiedAt": "2026-08-05T08:10:42.240Z"
+    }
   },
   {
     "id": "638ccef5-6f11-484d-903b-b259586cfc24",
@@ -13,7 +20,14 @@
     "platform": "zepto",
     "pincode": "560100",
     "chatId": "6245186317",
-    "createdAt": "2026-08-05T08:10:21.946Z"
+    "createdAt": "2026-08-05T08:10:21.946Z",
+    "result": {
+      "status": "in_stock",
+      "price": "₹334",
+      "title": "Hot Wheels 3Inch Die-Cast Pack Of 2 Assorted Cars, Boys, 3 Years+ ( Color May Vary)",
+      "checkedAt": "2026-08-05T08:10:45.095Z",
+      "notifiedAt": "2026-08-05T08:10:45.095Z"
+    }
   },
   {
     "id": "e886e618-3775-481c-9780-223404ceaeb7",
@@ -21,6 +35,12 @@
     "platform": "instamart",
     "pincode": "560100",
     "chatId": "6245186317",
-    "createdAt": "2026-08-05T08:10:21.946Z"
+    "createdAt": "2026-08-05T08:10:21.946Z",
+    "result": {
+      "status": "out_of_stock",
+      "price": "₹167",
+      "title": "Hot Wheels Worldwide Basic Car HW CLASSIC TV SERIES BATMOBILE Toy Car for Kids & Collectors",
+      "checkedAt": "2026-08-05T08:10:47.096Z"
+    }
   }
 ]
