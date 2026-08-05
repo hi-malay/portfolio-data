@@ -10,7 +10,7 @@
       "status": "in_stock",
       "price": "₹167",
       "title": "Hot Wheels Classic TV Series Batmobile Die Cast Car",
-      "checkedAt": "2026-08-05T08:27:56.887Z",
+      "checkedAt": "2026-08-05T08:30:32.206Z",
       "notifiedAt": "2026-08-05T08:10:42.240Z"
     }
   },
@@ -22,11 +22,9 @@
     "chatId": "6245186317",
     "createdAt": "2026-08-05T08:10:21.946Z",
     "result": {
-      "status": "in_stock",
-      "price": "₹334",
-      "title": "Hot Wheels 3Inch Die-Cast Pack Of 2 Assorted Cars, Boys, 3 Years+ ( Color May Vary)",
-      "checkedAt": "2026-08-05T08:28:02.045Z",
-      "notifiedAt": "2026-08-05T08:28:02.045Z"
+      "status": "error",
+      "error": "locator.click: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('button[aria-label=\"Select Location\"]').first()\n || url=https://www.zepto.com/ | title=\"ERROR: The request could not be satisfied\" | body=\"403 ERROR The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, \"",
+      "checkedAt": "2026-08-05T08:30:58.721Z"
     }
   },
   {
@@ -40,7 +38,7 @@
       "status": "out_of_stock",
       "price": "₹167",
       "title": "Hot Wheels Worldwide Basic Car HW CLASSIC TV SERIES BATMOBILE Toy Car for Kids & Collectors",
-      "checkedAt": "2026-08-05T08:28:04.336Z"
+      "checkedAt": "2026-08-05T08:31:31.939Z"
     }
   }
 ]
