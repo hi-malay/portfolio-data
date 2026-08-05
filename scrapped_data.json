@@ -7,41 +7,56 @@
     "headline": "Engineering",
     "public_identifier": "mmalay",
     "profile_url": "https://linkedin.com/in/mmalay",
-    "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHs0BkqV6aJLg/profile-displayphoto-crop_800_800/B56ZsTBrcwHAAI-/0/1765550786419?e=1780531200&v=beta&t=90UTs-54h4xudLRgs62EcXqJyHqcLX6W5L-mkJX5R-o",
+    "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHs0BkqV6aJLg/profile-displayphoto-crop_800_800/B56ZsTBrcwHAAI-/0/1765550786419?e=1787788800&v=beta&t=yodm9TKIs6R5wWBCbBGFzjClEFSOOlxK_Qtk40JX4zA",
     "about": "",
     "location": {
       "country": "India",
       "city": "Bengaluru, Karnataka",
       "full": "Bengaluru, Karnataka, India",
+      "postal_code": "",
       "country_code": "IN"
     },
     "creator_hashtags": [],
     "is_creator": true,
     "is_influencer": false,
-    "is_premium": false,
+    "is_premium": true,
     "open_to_work": false,
     "created_timestamp": 1495890584223,
     "show_follower_count": true,
-    "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQHcEJ2Oan2nQA/profile-displaybackgroundimage-shrink_350_1400/B56ZzlrR5BJkAY-/0/1773379855999?e=1780531200&v=beta&t=MdONLiVTfXA_lXvU1osXJqmHf2fQ-GA9DAJLCj_Zn9c",
+    "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQHcEJ2Oan2nQA/profile-displaybackgroundimage-shrink_350_1400/B56ZzlrR5BJkAY-/0/1773379855999?e=1787788800&v=beta&t=JhXmB-VKs9JaVjfF0zR8xmpHu_P1umBbvaRGo_PRd8E",
+    "memorialized": false,
+    "is_top_voice": false,
+    "primary_locale": "en_US",
     "urn": "ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8",
-    "follower_count": 1619,
-    "connection_count": 1507,
+    "follower_count": 1626,
+    "connection_count": 1520,
     "current_company": "Adeptmind",
     "current_company_urn": "17991379",
     "current_company_url": "https://www.linkedin.com/company/adeptmind",
+    "current_company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGvPh-2O8lviA/company-logo_400_400/company-logo_400_400/0/1738949518143/adeptmind_logo?e=1787788800&v=beta&t=yE5mU-J6b9YijEyrF4vC4UQb0ocvGXhM39XuIXBxwlE",
+    "top_education_school": {
+      "name": "Lovely Professional University",
+      "urn": "199009",
+      "url": "https://www.linkedin.com/school/lovely-professional-university",
+      "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFbJbgVOfBgxA/company-logo_400_400/company-logo_400_400/0/1631328172776?e=1787788800&v=beta&t=200eMwqPPbYHOvKcRExnvmT3yXjErkBULkMq__0NnNM"
+    },
+    "creator_website": "https://www.malaymishra.com/",
+    "is_verified": true,
     "top_skills": [],
     "email": null
   },
   "experience": [
     {
-      "title": "Engineering",
+      "title": "Senior Software Engineer",
       "company": "Adeptmind",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGvPh-2O8lviA/company-logo_400_400/company-logo_400_400/0/1738949518143/adeptmind_logo?e=1780531200&v=beta&t=sHTxuvEh-pPzHPnzSix3Ge2F8JW-72xF-1QHRnEYrnU",
-      "duration": "Jul 2024 - Present",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGvPh-2O8lviA/company-logo_400_400/company-logo_400_400/0/1738949518143/adeptmind_logo?e=1787788800&v=beta&t=yE5mU-J6b9YijEyrF4vC4UQb0ocvGXhM39XuIXBxwlE",
+      "duration": "Jul 2024 - Present · 2 yrs 2 mos",
       "location": "Toronto, Ontario, Canada",
+      "location_type": "",
       "employment_type": "Full-time",
       "company_linkedin_url": "https://www.linkedin.com/company/17991379/",
-      "description": "DLP Endpoints Optimization\n-Built dlp-endpoints in Go from scratch, reducing API latency from ~1.8s to sub-second and improving throughput.\n\nInterlink Intelligence (AI-driven Optimization)\n-Implemented Interlink Optimization in Chat-DLP to enhance data discoverability.\n-Used OpenAI embeddings to create dynamic interlinks across CLP, DLP, and PDP, improving search relevance and merchandising flow.\n\nFrontend Revamp & SEO Enhancement\n-Led frontend revamp with reusable FAQ and 404 templates, accelerating onboarding and boosting SEO.\n-Added Framer Motion animations to improve engagement and AI Overview visibility.\n\nPlatform Ownership & Engineering Support\n-Owned DLP SLAs, closing ~40 tickets in 2 months while handling Engineering Support.\n-Maintained platform stability with rapid production issue resolution.\n\nMentorship & Team Enablement\n-Onboarded and mentored interns via structured KT, daily guidance, and end-to-end feature ownership.",
+      "company_id": "17991379",
+      "description": "DLP Endpoints Optimization\n-Built dlp-endpoints in Go from scratch, reducing API latency from ~1.8s to sub-second and improving throughput.\nInterlink Intelligence (AI-driven Optimization)\n-Implemented Interlink Optimization in Chat-DLP to enhance data discoverability.\n-Used OpenAI embeddings to create dynamic interlinks across CLP, DLP, and PDP, improving search relevance and merchandising flow.\nFrontend Revamp & SEO Enhancement\n-Led frontend revamp with reusable FAQ and 404 templates, accelerating onboarding and boosting SEO.\n-Added Framer Motion animations to improve engagement and AI Overview visibility.\nPlatform Ownership & Engineering Support\n-Owned DLP SLAs, closing ~40 tickets in 2 months while handling Engineering Support.\n-Maintained platform stability with rapid production issue resolution.\nMentorship & Team Enablement\n-Onboarded and mentored interns via structured KT, daily guidance, and end-to-end feature ownership.",
       "start_date": {
         "year": 2024,
         "month": "Jul"
@@ -51,17 +66,20 @@
       "skills": [
         "Vue JS",
         "Go"
-      ]
+      ],
+      "skills_url": "/in/mmalay/overlay/2782938064/skill-associations-details/"
     },
     {
       "title": "Software Engineer",
       "company": "Plivo",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGPAsPvG1tyUg/company-logo_400_400/B56ZVcaoArGUAY-/0/1741012238866/plivo_inc_logo?e=1780531200&v=beta&t=q7n1Vjqpe44tddeSHEcSXtDCpO1Ze6Hjy4EIHsjp8R0",
-      "duration": "Jun 2022 - Jul 2024",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGPAsPvG1tyUg/company-logo_400_400/B56ZVcaoArGUAY-/0/1741012238866/plivo_inc_logo?e=1787788800&v=beta&t=_cCK3BssUChtnWN8rGb1g7kpMXoWuhaCbyhIpcWbyRM",
+      "duration": "Jun 2022 - Jul 2024 · 2 yrs 2 mos",
       "location": "Bangalore Urban, Karnataka, India",
+      "location_type": "Hybrid",
       "employment_type": "Full-time",
       "company_linkedin_url": "https://www.linkedin.com/company/2386103/",
-      "description": "Platform & Performance Optimization\n-Converted Electron.js desktop app to a high-performance web app using WebSockets and BroadcastListeners, improving customer work efficiency by ~50%.\n\nFrontend Modernization\n-Migrated CRA to Vite, reducing dev iteration time by 2× and build times by 4× via Rollup.\n\nFeature Ownership & Delivery\n-Led development of key features including Email, WhatsApp channels, Agent Monitoring, and Call Barging, contributing to 4 customer onboardings.\n\nDesign Systems & Quality\n-Built a shared UI component library using Storybook + MUI and integrated LogRocket with automated tests, reducing bugs and QA effort by ~40%.",
+      "company_id": "2386103",
+      "description": "Platform & Performance Optimization\n-Converted Electron.js desktop app to a high-performance web app using WebSockets and BroadcastListeners, improving customer work efficiency by ~50%.\nFrontend Modernization\n-Migrated CRA to Vite, reducing dev iteration time by 2× and build times by 4× via Rollup.\nFeature Ownership & Delivery\n-Led development of key features including Email, WhatsApp channels, Agent Monitoring, and Call Barging, contributing to 4 customer onboardings.\nDesign Systems & Quality\n-Built a shared UI component library using Storybook + MUI and integrated LogRocket with automated tests, reducing bugs and QA effort by ~40%.",
       "start_date": {
         "year": 2022,
         "month": "Jun"
@@ -74,16 +92,19 @@
       "skills": [
         "Microfrontend",
         "Electron JS"
-      ]
+      ],
+      "skills_url": "/in/mmalay/overlay/2331970799/skill-associations-details/"
     },
     {
       "title": "Software Engineer",
       "company": "KredX",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQECR48Z6gaNUQ/company-logo_400_400/company-logo_400_400/0/1699509392050/kredxindia_logo?e=1780531200&v=beta&t=BMrUztOUhW9kZddmkb4Wt_pvfTIuj6m3wJu0VEK-ca8",
-      "duration": "Jun 2021 - Jun 2022",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQECR48Z6gaNUQ/company-logo_400_400/company-logo_400_400/0/1699509392050/kredxindia_logo?e=1787788800&v=beta&t=nQJWTe2IpOC9xl3AE81ySgAc993paK4MVduZV4UobOw",
+      "duration": "Jun 2021 - Jun 2022 · 1 yr 1 mo",
       "location": "Bengaluru, Karnataka, India",
+      "location_type": "",
       "employment_type": "Full-time",
       "company_linkedin_url": "https://www.linkedin.com/company/10458500/",
+      "company_id": "10458500",
       "description": "Microfrontend \n- Integrated single SPA package for Micro FrontEnd architecture of entire repos, Which help in reducing deployment time and independent task on single feature by multiple developers by 60%\n- Implemented a GraphQL code generator for auto-generating types, leading to a reduction in writing buggy code.",
       "start_date": {
         "year": 2021,
@@ -98,16 +119,19 @@
         "Continuous Integration",
         "Continuous Delivery (CI/CD)",
         "React.js"
-      ]
+      ],
+      "skills_url": "/in/mmalay/overlay/1902809164/skill-associations-details/"
     },
     {
       "title": "Software Engineer",
       "company": "GoodHealth",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1780531200&v=beta&t=kAreooz79VXMQcCIvWtgUNcSU-ab2wIzSNcIsUZFXpQ",
-      "duration": "Nov 2020 - May 2021",
-      "location": "Full-time",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1787788800&v=beta&t=4HNFbybzyXkp-KcASdi9wxqu0_uDmKaXosMz2VciHY4",
+      "duration": "Nov 2020 - May 2021 · 7 mos",
+      "location": "- Created the entire website from scratch using design libraries such as Ant Design. Optimized user experience (UX) by implementing lazy loading, Brotli for asset compression, and progressive image loading. Additionally, incorporated parallax e\u0000ffects for an attractive and animated UI.- During development made sure the website is accessible in all the devices and meets PWA requirements if required in future.",
+      "location_type": "",
       "employment_type": "",
       "company_linkedin_url": "https://www.linkedin.com/company/53175998/",
+      "company_id": "53175998",
       "description": "- Created the entire website from scratch using design libraries such as Ant Design. Optimized user experience (UX) by implementing lazy loading, Brotli for asset compression, and progressive image loading. Additionally, incorporated parallax e\u0000ffects for an attractive and animated UI.\n- During development made sure the website is accessible in all the devices and meets PWA requirements if required in future.",
       "start_date": {
         "year": 2020,
@@ -120,18 +144,20 @@
       "is_current": false,
       "skills": [
         "React.js",
-        "jQuery",
-        "+1 skill"
-      ]
+        "jQuery"
+      ],
+      "skills_url": ""
     },
     {
       "title": "Software Developer",
       "company": "GoodHealth",
-      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1780531200&v=beta&t=kAreooz79VXMQcCIvWtgUNcSU-ab2wIzSNcIsUZFXpQ",
-      "duration": "May 2020 - Oct 2020",
-      "location": "Internship",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQG75Pw9zsgPFg/company-logo_400_400/company-logo_400_400/0/1630637605192/goodhealthapp_logo?e=1787788800&v=beta&t=4HNFbybzyXkp-KcASdi9wxqu0_uDmKaXosMz2VciHY4",
+      "duration": "May 2020 - Oct 2020 · 6 mos",
+      "location": "Bengaluru, Karnataka, India",
+      "location_type": "",
       "employment_type": "",
       "company_linkedin_url": "https://www.linkedin.com/company/53175998/",
+      "company_id": "53175998",
       "description": "",
       "start_date": {
         "year": 2020,
@@ -142,7 +168,8 @@
         "month": "Oct"
       },
       "is_current": false,
-      "skills": []
+      "skills": [],
+      "skills_url": ""
     }
   ],
   "education": [
@@ -151,19 +178,16 @@
       "degree": "Bachelor of Technology - BTech, Computer Science and Engineering",
       "degree_name": "Bachelor of Technology - BTech",
       "field_of_study": "Computer Science and Engineering",
-      "duration": "2017 – 2021",
-      "school_linkedin_url": "https://www.linkedin.com/school/378140/",
-      "description": "",
-      "activities": "",
-      "grade": "",
-      "skills": [],
-      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFbJbgVOfBgxA/company-logo_400_400/company-logo_400_400/0/1631328172776?e=1780531200&v=beta&t=tqpa08K48DrlqwR0ZFoGT5jILcwlpy_ooKP9ZKpmLho",
+      "duration": "2017 - 2021",
+      "school_linkedin_url": "https://www.linkedin.com/company/378140/",
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFbJbgVOfBgxA/company-logo_400_400/company-logo_400_400/0/1631328172776?e=1787788800&v=beta&t=200eMwqPPbYHOvKcRExnvmT3yXjErkBULkMq__0NnNM",
       "start_date": {
         "year": 2017
       },
       "end_date": {
         "year": 2021
-      }
+      },
+      "school_id": "378140"
     }
   ],
   "featured": [
@@ -172,14 +196,14 @@
       "title": "Portfolio",
       "description": "Malay Mishra Portfolio",
       "url": "https://www.linkedin.com/in/mmalay/overlay/1765829379193/single-media-viewer?type=LINK&profileId=ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8",
-      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEiNM5s10bR8A/articleshare-shrink_1280_800/B56Zsjoho4HAAQ-/0/1765829385563?e=1779307200&v=beta&t=LdpqsZKt4mBQe2SK60qJ5zDSJKXjCCz-kEQvEbN_vPY"
+      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEiNM5s10bR8A/articleshare-shrink_1280_800/B56Zsjoho4HAAQ-/0/1765829385563?e=1786525200&v=beta&t=MaCnhaiXlKFczo0MPi-ow4FjlEUVidY1jh6C9dI1hM0"
     },
     {
       "type": "link",
       "title": "Thikana",
       "description": "thikana.malaymishra.com",
       "url": "https://www.linkedin.com/in/mmalay/overlay/1770268885029/single-media-viewer?type=LINK&profileId=ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8",
-      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGjZIGNBhOrXQ/articleshare-shrink_800/B56ZwsPvsIJYAM-/0/1770268851611?e=1779307200&v=beta&t=TpurwhvdrBMSX_YvVSfNNNBofkoH4vVaOULEEjsud60"
+      "image_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGjZIGNBhOrXQ/articleshare-shrink_800/B56ZwsPvsIJYAM-/0/1770268851611?e=1786525200&v=beta&t=ABw4KaSBUS631-gg-FA-fYKC4sJg3xBoOOIgtpUaR24"
     },
     {
       "type": "link",
@@ -188,40 +212,51 @@
       "url": "https://www.linkedin.com/in/mmalay/overlay/1770295074176/single-media-viewer?type=LINK&profileId=ACoAACLXSeoBnVdZBLidtqOy-cSUwY-nYlc7xL8"
     }
   ],
+  "honors": [
+    {
+      "title": "Attended SSB Allahabad from CDS entry 2019",
+      "subtitle": "Issued by UPSC · Aug 2019",
+      "date": "Aug 2019",
+      "issuer": "UPSC",
+      "issuer_urn": "",
+      "description": "Had a great experience and knowledge on how indian army selects gentlemen cadets, Level of dedication requried from repeaters out there. Very grateful to be a part of that journey",
+      "media_url": ""
+    }
+  ],
   "skills": [
     {
       "name": "Open AI",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
       "name": "WebSocket",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
       "name": "Google Cloud Platform (GCP)",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
       "name": "CPLN",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
       "name": "Amazon Web Services (AWS)",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
@@ -233,7 +268,7 @@
       "name": "Vuex",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
@@ -265,7 +300,7 @@
       "name": "Go",
       "endorsement_count": 0,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
@@ -358,9 +393,7 @@
     {
       "name": "Leadership",
       "endorsement_count": 2,
-      "related_experiences": [
-        "Endorsed by Aditya Choudhari who is highly skilled at this"
-      ]
+      "related_experiences": []
     },
     {
       "name": "Data Structures",
@@ -371,7 +404,7 @@
       "name": "JavaScript",
       "endorsement_count": 2,
       "related_experiences": [
-        "Engineering at Adeptmind"
+        "Senior Software Engineer at Adeptmind"
       ]
     },
     {
@@ -447,49 +480,39 @@
   "recommendations": [
     {
       "recommender_name": "Indrajit V.",
-      "recommender_title": "Software Engineer | React, TypeScript, Python | 5+ YOE in Scalable Systems",
+      "recommender_title": "",
       "recommender_profile_id": "indrajit-v",
-      "recommendation_date": "March 12, 2024",
-      "relationship": "Indrajit worked with Malay on the same team",
-      "recommendation_text": "I wholeheartedly recommend Malay Mishra for a front-end software engineering role. From June 2022 to April 2023, I witnessed Malay's exceptional growth and contributions to the Plivo team.\nMalay is a technically proficient engineer with a deep understanding of modern web technologies. He played a critical role in transforming our Contacto product from an Electron.js desktop application to a highly responsive web app. This initiative improved real-time communication through websockets and BroadcastListeners and significantly enhanced our customer work speed by eliminating the need for platform switching.\nIn addition, his efforts to optimize our development process by transitioning from Create React App to Vite resulted in a 2x faster Hot Module Replacement (HMR) and a 4x improvement in build times. Malay's leadership skills were instrumental in developing key features such as email and WhatsApp channels and implementing Agent Monitoring and Barging features that attracted four new customers. This clearly demonstrated his ability to drive impactful changes.\nFurthermore, Malay's commitment to quality is evident in his development of a UI component library and the integration of a logging mechanism using LogRocket.\nMalay is an excellent communicator and a great team player. He is proactive in problem-solving and always eager to share knowledge and collaborate with his peers. His contributions have propelled our product development forward and fostered a collaborative and innovative team environment.\nI am confident that Malay will continue to bring his unique talents, dedication, and innovative mindset to any future role he undertakes. He would be a valuable asset to any team.\nPlease do not hesitate to contact me if you need further information.",
+      "recommendation_date": "",
+      "relationship": "",
+      "recommendation_text": "March 12, 2024, Indrajit worked with Malay on the same team",
       "type": "received"
     },
     {
       "recommender_name": "Samuel Lawrentz",
-      "recommender_title": "SDM1 @ Plivo | Build, Ship, Repeat",
+      "recommender_title": "",
       "recommender_profile_id": "samuel-lawrentz",
-      "recommendation_date": "February 26, 2024",
-      "relationship": "Samuel was senior to Malay but didn’t manage Malay directly",
-      "recommendation_text": "Malay is an excellent engineer a fast learner and a good team player. He can handle large features independently and can deliver on time. I've worked with him for a couple of years and he always solves problems and is a good UI developer. He has a good communication and interpersonal skills. Would highly recommend him for all your FE development needs.",
+      "recommendation_date": "",
+      "relationship": "",
+      "recommendation_text": "February 26, 2024, Samuel was senior to Malay but didn’t manage Malay directly",
       "type": "received"
     },
     {
       "recommender_name": "Indrajit V.",
-      "recommender_title": "Software Engineer | React, TypeScript, Python | 5+ YOE in Scalable Systems",
+      "recommender_title": "",
       "recommender_profile_id": "indrajit-v",
-      "recommendation_date": "May 9, 2024",
-      "relationship": "Malay worked with Indrajit on the same team",
-      "recommendation_text": "I had the pleasure of working alongside Indrajit at Plivo, where he consistently demonstrated exceptional skills in software development. His ability to architect and integrate complex features significantly enhanced our product offerings, notably leading to a 50% increase in user adoption and notably reducing customer churn by 15%.\n\nIndrajit's expertise in React and TypeScript allowed him to develop critical components of our Omnichannel Cloud Contact Center, improving both team efficiency and product reliability. He was instrumental in building a comprehensive UI component library using Storybook and Material UI, which streamlined our development process and reduced QA efforts by 40%.\n\nMoreover, his proactive approach in initiating and developing a Chat Widget web app as a Progressive Web App (PWA) was remarkable, boosting our lead conversion by 20% and contributing to a 15% revenue growth.",
+      "recommendation_date": "",
+      "relationship": "",
+      "recommendation_text": "May 9, 2024, Malay worked with Indrajit on the same team",
       "type": "given"
     },
     {
       "recommender_name": "Samuel Lawrentz",
-      "recommender_title": "SDM1 @ Plivo | Build, Ship, Repeat",
+      "recommender_title": "",
       "recommender_profile_id": "samuel-lawrentz",
-      "recommendation_date": "February 26, 2024",
-      "relationship": "Samuel was senior to Malay but didn’t manage Malay directly",
-      "recommendation_text": "A guy with awesome knowledge in frontend and always eager to learn, from junior to senior, is the go-to person for any query and learning",
+      "recommendation_date": "",
+      "relationship": "",
+      "recommendation_text": "February 26, 2024, Samuel was senior to Malay but didn’t manage Malay directly",
       "type": "given"
-    }
-  ],
-  "honors": [
-    {
-      "title": "Attended SSB Allahabad from CDS entry 2019",
-      "date": "Aug 2019",
-      "issuer": "UPSC",
-      "issuer_urn": "",
-      "description": "Had a great experience and knowledge on how indian army selects gentlemen cadets, Level of dedication requried from repeaters out there. Very grateful to be a part of that journey",
-      "media_url": ""
     }
   ]
 }
