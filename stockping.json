@@ -5,6 +5,13 @@
     "pincode": "560100",
     "chatId": "6245186317",
     "id": "c31a762a-d3e2-494c-92d6-dbf18f75f1ce",
-    "createdAt": "2026-08-05T10:34:58.426Z"
+    "createdAt": "2026-08-05T10:34:58.426Z",
+    "result": {
+      "status": "in_stock",
+      "price": "₹95",
+      "title": "Natch Chilli Mango Slices | Imported From Thailand, Real Dried Thai Mangoes | Source Of Fiber, Rich in Vitamins and Antioxidants |",
+      "checkedAt": "2026-08-05T11:00:48.796Z",
+      "notifiedAt": "2026-08-05T11:00:48.796Z"
+    }
   }
 ]
