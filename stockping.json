@@ -10,7 +10,7 @@
       "status": "out_of_stock",
       "price": "₹95",
       "title": "Natch Chilli Mango Slices | Imported From Thailand, Real Dried Thai Mangoes | Source Of Fiber, Rich in Vitamins and Antioxidants |",
-      "checkedAt": "2026-08-09T04:00:59.485Z"
+      "checkedAt": "2026-08-09T04:30:54.150Z"
     }
   },
   {
@@ -21,10 +21,9 @@
     "id": "7dfb073c-f893-4d46-b26e-f3ab5481b4b1",
     "createdAt": "2026-08-05T16:00:10.695Z",
     "result": {
-      "status": "out_of_stock",
-      "price": "₹100",
-      "title": "Bingo Churros with Chocolate Dip",
-      "checkedAt": "2026-08-09T04:01:13.888Z"
+      "status": "error",
+      "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('[class*=\"LocationSearchList__LocationListContainer\"]').first() to be visible\n || url=https://blinkit.com/ | title=\"30,000+ products delivered to your doorstep | Blinkit\" | body=\"Delivery in 11 minutes Select Location Welcome to blinkit Please provide your delivery location to see products at nearby store Detect my location OR ! Search \"milk\" Search \"chips\" Login r My Cart Useful Links Blog Privacy Terms FAQs Security Contact Partner Franchise Seller Warehouse Deliver Resour\"",
+      "checkedAt": "2026-08-09T04:31:11.512Z"
     }
   }
 ]
