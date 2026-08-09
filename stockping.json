@@ -9,7 +9,7 @@
     "result": {
       "status": "error",
       "error": "page.waitForFunction: Timeout 20000ms exceeded. || url=https://instamart.in/item/M0FVC4UPKJ?share=true | title=\"Instamart\" | body=\"Something went wrong! Our best minds are on this, please refresh or come back later Try Again\"",
-      "checkedAt": "2026-08-09T20:31:15.616Z"
+      "checkedAt": "2026-08-09T21:01:18.424Z"
     }
   },
   {
@@ -20,10 +20,9 @@
     "id": "7dfb073c-f893-4d46-b26e-f3ab5481b4b1",
     "createdAt": "2026-08-05T16:00:10.695Z",
     "result": {
-      "status": "out_of_stock",
-      "price": "₹100",
-      "title": "Bingo Churros with Chocolate Dip",
-      "checkedAt": "2026-08-09T20:31:30.292Z"
+      "status": "error",
+      "error": "page.waitForFunction: Timeout 20000ms exceeded. || url=https://blinkit.com/prn/bingo-churros-with-chocolate-dip/prid/784959 | title=\"Bingo Churros with Chocolate Dip Price - Buy Online at Best Price in India\" | body=\"Delivery in 8 minutes Bengaluru, Karnataka 560100, India ! Search \"sugar\" Search \"butter\" Login r My Cart Product Details Diet Preference High Fiber View more details Home / Cakes & Rolls / Bingo Churros with Chocolate Dip Bingo Churros with Chocolate Dip Why shop from blinkit? Round The Clock Deliv\"",
+      "checkedAt": "2026-08-09T21:01:50.719Z"
     }
   }
 ]
