@@ -10,7 +10,7 @@
       "status": "out_of_stock",
       "price": "₹95",
       "title": "Natch Chilli Mango Slices | Imported From Thailand, Real Dried Thai Mangoes | Source Of Fiber, Rich in Vitamins and Antioxidants |",
-      "checkedAt": "2026-08-09T05:00:53.333Z"
+      "checkedAt": "2026-08-09T05:30:53.396Z"
     }
   },
   {
@@ -21,9 +21,10 @@
     "id": "7dfb073c-f893-4d46-b26e-f3ab5481b4b1",
     "createdAt": "2026-08-05T16:00:10.695Z",
     "result": {
-      "status": "error",
-      "error": "pincode 560100 not applied on product page || url=https://blinkit.com/prn/bingo-churros-with-chocolate-dip/prid/784959 | title=\"30,000+ products delivered to your doorstep | Blinkit\" | body=\"Select Location ! Search \"butter\" Search \"paneer\" Search \"chocolate\" Search \"curd\" Search \"rice\" Search \"egg\" Search \"chips\" Login r My Cart Oops! Something seems to be wrong. Try reloading the page. Reload Useful Links Blog Privacy Terms FAQs Security Contact Partner Franchise Seller Warehouse Deli\"",
-      "checkedAt": "2026-08-09T05:01:10.147Z"
+      "status": "out_of_stock",
+      "price": "₹100",
+      "title": "Bingo Churros with Chocolate Dip",
+      "checkedAt": "2026-08-09T05:31:05.873Z"
     }
   }
 ]
