@@ -7,9 +7,10 @@
     "id": "c31a762a-d3e2-494c-92d6-dbf18f75f1ce",
     "createdAt": "2026-08-05T10:34:58.426Z",
     "result": {
-      "status": "error",
-      "error": "page.waitForFunction: Timeout 20000ms exceeded. || url=https://instamart.in/item/M0FVC4UPKJ?share=true | title=\"Instamart\" | body=\"Something went wrong! Our best minds are on this, please refresh or come back later Try Again\"",
-      "checkedAt": "2026-08-10T17:31:14.505Z"
+      "status": "out_of_stock",
+      "price": "₹95",
+      "title": "Natch Chilli Mango Slices | Imported From Thailand, Real Dried Thai Mangoes | Source Of Fiber, Rich in Vitamins and Antioxidants |",
+      "checkedAt": "2026-08-10T18:00:58.907Z"
     }
   },
   {
@@ -23,7 +24,7 @@
       "status": "out_of_stock",
       "price": "₹100",
       "title": "Bingo Churros with Chocolate Dip",
-      "checkedAt": "2026-08-10T17:31:27.621Z"
+      "checkedAt": "2026-08-10T18:01:12.070Z"
     }
   }
 ]
