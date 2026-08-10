@@ -9,7 +9,7 @@
     "result": {
       "status": "error",
       "error": "page.waitForFunction: Timeout 20000ms exceeded. || url=https://instamart.in/item/M0FVC4UPKJ?share=true | title=\"Instamart\" | body=\"Something went wrong! Our best minds are on this, please refresh or come back later Try Again\"",
-      "checkedAt": "2026-08-10T13:01:13.494Z"
+      "checkedAt": "2026-08-10T13:31:14.424Z"
     }
   },
   {
@@ -23,7 +23,7 @@
       "status": "out_of_stock",
       "price": "₹100",
       "title": "Bingo Churros with Chocolate Dip",
-      "checkedAt": "2026-08-10T13:01:26.157Z"
+      "checkedAt": "2026-08-10T13:31:27.938Z"
     }
   }
 ]
