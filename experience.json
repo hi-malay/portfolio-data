@@ -28,37 +28,42 @@
       "GraphQL"
     ]
   },
-  {
+   {
     "company": "PLIVO",
     "role": "SDE | Founding Team",
     "period": "06/2022 - 05/2024",
     "icon": "Rocket",
     "location": "Bangalore, KA",
-    "description": "Contacto is a product solution that enables businesses to set up their contact center with a few button clicks and drag and drop functionality.",
+    "description": "Contacto (a subsidiary of Myntra) is a product solution that enables businesses to set up their contact center with a few button clicks and drag and drop functionality.",
     "achievements": [
-      "Developed and maintained scalable **backend services and APIs** using **Java and Intershop Commerce Suite**, supporting e-commerce and customer-facing application workflows.",
-      "Developed and maintained backend modules within the **Intershop Commerce Suite (ISM)**, working with Intershop architecture and e-commerce components.",
-      "Designed and integrated **REST APIs** between Intershop backend services and frontend applications to support seamless application workflows.",
-      "Worked on **e-commerce catalog, product, category, and search-related functionality** within Intershop-based applications.",
-      "Customized and enhanced Intershop backend functionality based on business and product requirements.",
-      "Participated in **performance tuning, debugging, unit testing, code reviews, and production issue resolution** for Intershop-based services.",
-      "Collaborated with frontend engineers, business stakeholders, QA, and technical teams to design and deliver e-commerce functionality.",
       "Converted an Electron.js desktop application into a **browser-based application**, implementing WebSockets and browser communication APIs for real-time functionality.",
       "Improved customer workflow efficiency by approximately **50%** by eliminating platform switching and reducing multiple-login requirements.",
       "Independently designed and delivered major product capabilities including **Email and WhatsApp communication channels, Agent Monitoring, and Agent Barging**.",
+      "Migrated **Create React App to Vite**, reducing development iteration time by approximately **2x** through faster HMR and improving build performance.",
       "Worked across frontend and backend integrations to establish reliable communication between customer-facing applications and backend services.",
-      "Migrated **Create React App to Vite**, reducing development iteration time by approximately **2x** through faster HMR and improving build performance."
+      "Designed and integrated **REST and GraphQL APIs** between backend services and frontend applications to support seamless application workflows.",
+      "Developed and maintained scalable **backend services and APIs** using **Go (Gin) and Python**, supporting contact-center and customer-facing application workflows.",
+      "Built and maintained backend modules using **Go and the Gin framework**, designing service architecture and data models backed by **PostgreSQL**.",
+      "Worked on **agent, conversation, and channel-related functionality**, including **PostgreSQL schema design and query optimization**.",
+      "Built **Python** services and scripts for automation, data processing, and internal tooling based on business and product requirements.",
+      "Participated in **performance tuning, debugging, unit testing, code reviews, and production issue resolution** for Go and Python services.",
+      "Collaborated with frontend engineers, business stakeholders, QA, and technical teams to design and deliver product functionality."
     ],
     "image": "./portfolio1.jpg",
     "link": "https://www.plivo.com",
     "technologies": [
       "React",
+      "TypeScript",
       "Vite",
       "WebSockets",
       "Storybook",
       "Material UI",
-      "TypeScript",
-      "Node.js"
+      "Node.js",
+      "GraphQL",
+      "Go",
+      "Gin",
+      "Python",
+      "PostgreSQL"
     ]
   },
   {
