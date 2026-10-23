@@ -7,14 +7,14 @@
     "location": "Bangalore, KA",
     "description": "Adeptmind leverages Gen AI and deep intent mining to transform retail search and discovery—bridging the gap between physical products and digital shoppers through AI-driven optimization.",
     "achievements": [
-      "**Developed the dlp-endpoints service from scratch using Go**, transitioning performance-critical APIs that previously had ~1.8s latency, reducing response times dramatically and improving client satisfaction.",
-      "Worked on improving **Core Web Vitals** and UI performance for major clients such as **Foot Locker, Gap, Lululemon, and Decathlon** and more implementing SEO optimizations that improved page speed by approximately **60%** and contributed to client growth. Also worked on **indexing and crawling optimizations** to improve search engine discoverability and page performance.",
-      "**Enhanced DLP Platform** with backend improvements including Interlink Optimization in Chat-DLP, enabling richer interlink structures for better data linking and discoverability.",
+      "**Re-engineered performance-critical legacy APIs into a new Go service (dlp-endpoints) built from scratch**, cutting response times from ~1.8s and improving client satisfaction.",
+      "**Owned DLP SLA targets and production support**, troubleshooting and resolving **~40 tickets in 2 months** while on **Engineering Support**, keeping the platform stable.",
+      "**Enhanced the DLP platform backend**, including Interlink Optimization in Chat-DLP, enabling richer interlink structures for better data linking and discoverability.",
       "Implemented an AI-driven interlink system using **OpenAI embeddings** to dynamically generate multi-ratio interlinks between CLP, DLP, and PDP pages, optimizing search performance and page relationships.",
+      "Improved **Core Web Vitals** and UI performance for major clients such as **Foot Locker, Gap, Lululemon, and Decathlon**, with SEO, **indexing and crawling optimizations** that improved page speed by approximately **60%** and contributed to client growth.",
       "**Led frontend revamp** by introducing reusable templates for FAQ and 404 pages, accelerating new client onboarding and enhancing SEO rankings.",
       "Integrated **Framer Motion animations** for smooth transitions, improving user engagement and visibility in **AI Overviews**.",
-      "**Owned and delivered DLP SLA targets**, resolving **~40 tickets in 2 months** while simultaneously being on **Engineering Support** for over 2 months, ensuring stability and prompt issue resolution.",
-      "**Mentored and onboarded juniors**, providing detailed **KT sessions**, daily guidance, and regular feedback, successfully transitioning them to full-time engineers."
+      "**Mentored and onboarded juniors** through detailed **KT sessions**, daily guidance, and regular feedback, transitioning them to full-time engineers."
     ],
     "image": "./portfolio4.jpg",
     "link": "https://www.adeptmind.ai/",
@@ -36,18 +36,18 @@
     "location": "Bangalore, KA",
     "description": "Contacto (a subsidiary of Myntra) is a product solution that enables businesses to set up their contact center with a few button clicks and drag and drop functionality.",
     "achievements": [
+      "Participated in **performance tuning, debugging, unit testing, code reviews, and production issue resolution** for Intershop-based services.",
       "Developed and maintained scalable **backend services and APIs** using **Java and Intershop Commerce Suite**, supporting e-commerce and customer-facing application workflows.",
       "Developed and maintained backend modules within the **Intershop Commerce Suite (ISM)**, working with Intershop architecture and e-commerce components.",
       "Designed and integrated **REST APIs** between Intershop backend services and frontend applications to support seamless application workflows.",
       "Worked on **e-commerce catalog, product, category, and search-related functionality** within Intershop-based applications.",
       "Customized and enhanced Intershop backend functionality based on business and product requirements.",
-      "Participated in **performance tuning, debugging, unit testing, code reviews, and production issue resolution** for Intershop-based services.",
       "Collaborated with frontend engineers, business stakeholders, QA, and technical teams to design and deliver e-commerce functionality.",
-      "Converted an Electron.js desktop application into a **browser-based application**, implementing WebSockets and browser communication APIs for real-time functionality.",
+      "**Migrated an Electron.js desktop application to a browser-based application**, implementing WebSockets and browser communication APIs for real-time functionality.",
       "Improved customer workflow efficiency by approximately **50%** by eliminating platform switching and reducing multiple-login requirements.",
       "Independently designed and delivered major product capabilities including **Email and WhatsApp communication channels, Agent Monitoring, and Agent Barging**.",
       "Worked across frontend and backend integrations to establish reliable communication between customer-facing applications and backend services.",
-      "Migrated **Create React App to Vite**, reducing development iteration time by approximately **2x** through faster HMR and improving build performance."
+      "**Modernized build tooling by migrating Create React App to Vite**, roughly **2x** faster development iteration through faster HMR and improved build performance."
     ],
     "image": "./portfolio1.jpg",
     "link": "https://www.plivo.com",
@@ -67,11 +67,13 @@
     "period": "06/2021 - 06/2022",
     "icon": "BarChart3",
     "location": "Bangalore, KA",
+    "description": "KredX is a fintech platform for invoice discounting and supply chain finance, helping businesses unlock working capital.",
     "achievements": [
-      "**Integrated single SPA package for Micro FrontEnd** architecture of entire repos, Which help in reducing deployment time and independent task on single feature by **multiple developers by 60%**",
-      "Designed and implemented Server-driven forms for vendor onboarding where it dynamically adapts to backend response and Developed a central doc upload module that allowed all teams to reuse upload and maker-checker functionality.",
-      "Implemented a GraphQL code generator for auto-generating types, leading to a reduction in writing buggy code.",
-      "**Achieved 60% test coverage** for the entire Capvel repository."
+      "Built a **central document upload module with reusable maker-checker (dual-approval) workflows**, adopted across teams for consistent review and approval flows.",
+      "Designed and implemented **server-driven forms for vendor onboarding** that adapt dynamically to backend responses.",
+      "**Achieved 60% unit test coverage** with Jest across the Capvel repository.",
+      "Implemented a **GraphQL code generator** for auto-generated types, reducing type-related bugs.",
+      "**Integrated single-spa micro-frontend architecture** across repositories, reducing deployment time and enabling **multiple developers to work independently on features** (~**60%** improvement)."
     ],
     "image": "./portfolio2.jpg",
     "link": "https://www.kredx.com/",
@@ -91,8 +93,8 @@
     "icon": "Zap",
     "location": "Bangalore, KA",
     "achievements": [
-      "Created the entire website from scratch using design libraries such as Ant Design. Optimized user experience (UX) by implementing lazy loading, Brotli for asset compression, and progressive image loading. Additionally, incorporated parallax effects for an attractive and animated UI.",
-      "During development made sure the website is accessible in all the devices and meets PWA requirements if required in future."
+      "Built the entire website from scratch with Ant Design, optimizing UX through lazy loading, Brotli asset compression, and progressive image loading, plus parallax effects for an animated UI.",
+      "Ensured the website was responsive across all devices and ready to meet PWA requirements in future."
     ],
     "image": "./portfolio3.jpg",
     "link": "https://www.adeptmind.ai/",
