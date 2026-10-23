@@ -1,0 +1,47 @@
+# Regenerates Malay-Mishra-Resume.pdf from the live cv.malaymishra.com page.
+name: Regenerate resume PDF
+
+on:
+  push:
+    branches: [main]
+    paths: [experience.json, skills.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# A newer push makes an in-flight run pointless.
+concurrency:
+  group: resume-pdf
+  cancel-in-progress: true
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # raw.githubusercontent caches ~5 min, then the site's ISR waits up to 5 more.
+      - name: Wait for live site to pick up the new JSON
+        if: github.event_name == 'push'
+        run: sleep 600
+
+      # First hit triggers ISR regeneration in the background; second one gets the fresh page.
+      - name: Warm up /cv
+        run: |
+          curl -s -o /dev/null https://cv.malaymishra.com
+          sleep 20
+
+      - name: Print PDF
+        run: |
+          google-chrome --headless=new --no-sandbox --disable-gpu --no-pdf-header-footer \
+            --virtual-time-budget=10000 \
+            --print-to-pdf=Malay-Mishra-Resume.pdf https://cv.malaymishra.com
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add Malay-Mishra-Resume.pdf
+          git commit -m "Regenerate resume PDF" || exit 0
+          git push
